@@ -1,0 +1,28 @@
+body {
+    background-color: #f2f2f4;
+    margin: auto;
+}
+
+#title {
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+.element-container {
+    background-color: #163153;
+    height: 65px;
+    padding: 10px 10px 0px 10px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+}
+
+.element-icon {
+    padding: 5px 100px;
+    /* width: 200px; */
+}
+
+.element-title {
+    padding: 0px 0px 5px;
+    font-size: 10px;
+}
